@@ -22,35 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Appcues](https://www.appcues.com/)**  
-  No-code user onboarding platform for product tours, modals, tooltips, and personalized flows with strong analytics, A/B testing, and mobile support.
-
-- **[Userpilot](https://userpilot.com/)**  
-  Behavior-driven product adoption platform with in-app tours, tooltips, checklists, surveys, segmentation, and analytics focused on growth-stage SaaS.
-
-- **[Userflow](https://www.userflow.com/)**  
-  Developer-friendly and no-code hybrid platform for building sophisticated in-app onboarding flows, checklists, and resource centers with strong customization.
-
-- **[Chameleon](https://www.chameleon.io/)**  
-  Design-focused product adoption platform for native-feeling tours, tooltips, banners, checklists, and microsurveys with CSS control and AI assistance.
-
-- **[Stonly](https://www.stonly.com/)**  
-  Interactive step-by-step guides and knowledge base tool for self-serve help, troubleshooting, product adoption, and internal training.
-
-- **[Hopscotch](https://hopscotch.club/)**  
-  Affordable no-code product tour and tooltip tool focused on fast, beautiful walkthroughs for early-stage and growing SaaS teams.
-
-- **[CommandBar](https://www.commandbar.com/)**  
-  AI-powered in-app assistance and onboarding platform combining search, nudges, product tours, and contextual help to drive feature adoption.
-
-- **[Inline Manual](https://www.inlinemanual.com/)**  
-  Mature digital adoption platform for step-by-step guides, tooltips, walkthroughs, version control, and multi-language support.
-
-- **[Nickelled (Omniplex Guide)](https://www.omniplex.ai/)**  
-  Enterprise-oriented in-system training and guided onboarding solution (formerly Nickelled) with strong integrations for complex software environments.
-
-- **[Guidde](https://www.guidde.com/)**  
-  AI-powered tool for quickly creating video and interactive how-to guides, knowledge base content, and onboarding materials from screen recordings.
+| Product | Description | Starting Price | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Appcues](https://www.appcues.com/)** | No-code user onboarding platform for product tours, modals, tooltips, and personalized flows with strong analytics, A/B testing, and mobile support. | **$249/month** (Essentials plan, billed annually; up to 2,500 MAUs) | **14-day free trial** (full access to builder, sandbox testing environment, no credit card required; extendable +14 days upon SDK install) |
+| **[Userpilot](https://userpilot.com/)** | Behavior-driven product adoption platform with in-app tours, tooltips, checklists, surveys, segmentation, and analytics focused on growth-stage SaaS. | **$299/month** (Starter plan, billed annually; up to 2,000 MAUs) | **14-day free trial** (full access to in-app tours, surveys, checklists, and user tracking up to 2,000 MAUs, no credit card required) |
+| **[Userflow](https://www.userflow.com/)** | Developer-friendly and no-code hybrid platform for building sophisticated in-app onboarding flows, checklists, and resource centers with strong customization. | **$100/month** (Adoption Agent) / **$500/month** (Adoption Studio, up to 3,000 MAUs) | **14-day free trial** (full feature access to flows, checklists, launchers, sandbox & live preview, no credit card required) |
+| **[Chameleon](https://www.chameleon.io/)** | Design-focused product adoption platform for native-feeling tours, tooltips, banners, checklists, and microsurveys with CSS control and AI assistance. | **$279/month** (Startup plan; up to 2,000 Monthly Tracked Users) | **14-day free trial** (full enterprise-level access to all features, AI agents, and unlimited experience builds, no credit card required) |
+| **[Stonly](https://www.stonly.com/)** | Interactive step-by-step guides and knowledge base tool for self-serve help, troubleshooting, product adoption, and internal training. | **$199/month** (Small Business plan, billed annually; $249/mo monthly) | **Free forever plan** (up to 5 published guides, 400 guide views/month, 1 team member) + **14-day free trial** for Small Business plan |
+| **[Hopscotch](https://hopscotch.club/)** | Affordable no-code product tour and tooltip tool focused on fast, beautiful walkthroughs for early-stage and growing SaaS teams. | **$99/month** (Standard plan) / **$249/month** (Growth plan, up to 3,000 users) | **Free development trial** (unlimited testing and tour creation in staging/sandbox; pay only when pushing experiences live) |
+| **[CommandBar](https://www.commandbar.com/)** | AI-powered in-app assistance and onboarding platform combining search, nudges, product tours, and contextual help to drive feature adoption. | **$249/month** (Starter tier; up to 1,000–2,500 MAUs) | **14-day free trial** (access to AI assistant nudges, contextual search, and in-app tours; previously had free tier up to 1,000 MAUs) |
+| **[Inline Manual](https://www.inlinemanual.com/)** | Mature digital adoption platform for step-by-step guides, tooltips, walkthroughs, version control, and multi-language support. | **$158/month** (Standard Pro plan; up to 250 MAUs) | **14-day free trial** (fully functional account with authoring extension, interactive player, analytics, no credit card required) |
+| **[Nickelled (Omniplex Guide)](https://www.omniplex.ai/)** | Enterprise-oriented in-system training and guided onboarding solution (formerly Nickelled) with strong integrations for complex software environments. | **$199/month – $249/month** (Core plan; up to 2,500 MAUs, unlimited guides) | **14-day free trial** (full access to create website/app walkthroughs for up to 2,500 MAUs, no credit card required) |
+| **[Guidde](https://www.guidde.com/)** | AI-powered tool for quickly creating video and interactive how-to guides, knowledge base content, and onboarding materials from screen recordings. | **$23/creator/month** (Pro plan, billed annually) / **$44/creator/month** (Business) | **Free forever plan** (up to 25 videos, web capture, browser extension) + **7-day free trial** for Business tier (AI voiceovers, brand kits) |
 
 ## Open-Source GitHub Projects
 
